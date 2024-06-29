@@ -1,7 +1,7 @@
 # Queue-luau
 a typesafe O(n) queue library for luau
 # Example
-All functions are listed in [Methods](https://github.com/daolgierd/Queue-luau/edit/main/README.md#methods)
+All functions are listed in [Methods](https://github.com/daolgierd/Queue-luau?tab=readme-ov-file#methods)
 ```luau
 local queue = require(...)
 local foo = queue.new()
