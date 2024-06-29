@@ -15,7 +15,7 @@ print(popped) --> 'foo'
 - `:push(value: T)` - Add value to queue.
 - `:pop()` - Remove the first value from queue and return it.
 - `:peek()` - Returns the first value from queue but does not remove it.
-- `:get(index: number?)` - If no `index` provided it will return the full `queue` in table`.
+- `:get(index: number?)` - If no `index` provided it will return the full `queue` in table.
 - `:set(index: number, value: T)` - Sets the `value` at given `index`.
 - `:size()` - Returns the size of the queue.
 - `:clear()` - Clears the entire queue.
