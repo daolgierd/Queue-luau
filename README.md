@@ -1,5 +1,5 @@
 # Queue-luau
-a typesafe O(n) queue library for luau
+a typesafe O(1) queue library for luau
 # Example
 All functions are listed in [Methods](https://github.com/daolgierd/Queue-luau?tab=readme-ov-file#methods)
 ```luau
